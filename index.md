@@ -12,10 +12,10 @@
 	-- I am interested in jobs in industry --
     </>
     <p>
-    -- Interests --
+    -- Interests: --
     </>
     <p> 
-    -- Prior experience --
+    -- Prior experience: --
     </p>
     <p>
      You can find me on <a href="https://github.com/damian-t-p">Github</a>, <a href="https://linkedin.com/in/d-pavlyshyn
