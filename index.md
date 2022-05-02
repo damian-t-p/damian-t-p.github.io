@@ -9,7 +9,7 @@
     <img class="left" style="width:40%;" src="assets/index/damian-portrait.jpg">
     <p>
     I'm Damian, a fifth-year PhD student in Stanford's Statistics department, advised by <a href="https://web.stanford.edu/~swager">Iain Johnstone</a>.
-	-- I am interested in jobs in industry --
+	-- I am interested in jobs in industry: --
     </>
     <p>
     -- Interests: --
