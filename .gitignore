@@ -2,6 +2,8 @@
 .\#
 \#*\#
 
+*.xcf
+
 *DS_St*
 index.html
 pub/

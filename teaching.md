@@ -2,17 +2,12 @@
 
 ## Courses as Instructor at Stanford Statistics
 
-| Quarter     | Course   | Course Title                        |
-|-------------|----------|-------------------------------------|
-| Spring 2021 | STATS 32 | Introduction to R for undergradutes |
-| Spring 2020 | STATS 32 | Introduction to R for undergraduate |
+| Quarter     | Course   | Course Title                                                                      |
+|-------------|----------|-----------------------------------------------------------------------------------|
+| Spring 2021 | STATS 32 | [Introduction to R for undergradutes](https://damian-t-p.github.io/STATS32-2020/) |
+| Spring 2020 | STATS 32 | Introduction to R for undergraduate                                               |
 
 ## Courses as Teaching Assistant at Stanford Statistics
-
-Course codes:
-  * STATS 1** or STATS **: Undergraduate courses
-  * STATS 2**: Masters courses
-  * STATS 3**: PhD courses
 
 | Quarter     | Course     | Course Title                                                 | Instructor            |
 |-------------|------------|--------------------------------------------------------------|-----------------------|
@@ -28,6 +23,11 @@ Course codes:
 | Autumn 2018 | STATS 301A | Theory of Probability I                                      | Sourav Chatterjee     |
 | Summer 2018 | STATS 216V | Introduction to Statistical Learning                         | Trevor Hastie         |
 | Autumn 2017 | STATS 110  | Statistical Methods in Engineering and the Physical Sciences | Xiang Zhu             |
+
+Course codes:
+  * STATS 1** or STATS **: Undergraduate courses
+  * STATS 2**: Masters courses
+  * STATS 3**: PhD courses
 
 ## Courses as Tutor at the University of Melbourne
 
