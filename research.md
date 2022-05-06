@@ -1,6 +1,6 @@
 @def title = "Research"
 @def hascode = true
-
+@def hasicons = true
 
 ## Publications and Preprints
 
