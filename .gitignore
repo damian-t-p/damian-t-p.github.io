@@ -7,4 +7,7 @@
 *DS_St*
 index.html
 pub/
-css/
+#css/
+
+#!_libs/
+/__site/
