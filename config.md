@@ -5,6 +5,15 @@
 <!-- add here global commands to use throughout your pages -->
 \newcommand{\RR}{\mathbb R}
 
+\newcommand{\localpaper}[1]{
+~~~
+<span class="tooltip">
+<a href=#1><i class="ai ai-cv ai-lg"></i></a>
+<span class="tooltiptext">Locally-hosted paper</span>
+</span>
+~~~    
+}
+
 \newcommand{\bioRxiv}[1]{
 ~~~
 <a href=#1><i class="ai ai-biorxiv ai-lg"></i></a>
