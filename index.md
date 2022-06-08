@@ -1,6 +1,7 @@
 @def title = "Damian Pavlyshyn"
 @def hascode = true
 @def hasmath = false
+@def hasicons = true
 
 ~~~
 <div class="row">
@@ -16,7 +17,11 @@
     </p>
     <p>
     You can find me on <a href="https://github.com/damian-t-p">Github</a>, <a href="https://linkedin.com/in/d-pavlyshyn
-">Linkedin</a>  or email me at <code>damian.pavlyshyn@gmail.com</code>. A copy of my CV is available <a href="assets/cv/dpavlyshyn-cv.pdf"> here</a>.
+">Linkedin</a>  or email me at <code>damian.pavlyshyn@gmail.com</code>. A copy of my CV is available here: 
+	<span class="tooltip">
+		<a href="/assets/cv/dpavlyshyn-cv.pdf"><i class="ai ai-cv ai-lg"></i></a>
+		<span class="tooltiptext">Locally-hosted file</span>
+	</span>
     </p>
     <div style="clear: both"></div>      
   </div>

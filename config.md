@@ -9,7 +9,7 @@
 ~~~
 <span class="tooltip">
 <a href=#1><i class="ai ai-cv ai-lg"></i></a>
-<span class="tooltiptext">Locally-hosted paper</span>
+<span class="tooltiptext">Locally-hosted file</span>
 </span>
 ~~~    
 }
