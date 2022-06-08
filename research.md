@@ -14,7 +14,7 @@
 
 ## Ph. D. thesis
 
-D. Pavlyshyn. “Likelihood ratio testing in critically-spiked Wigner models.” *Doctoral Dissertation, Stanford University* (2022).\localpaper{assets/research/dpavlyshyn-dissertation.pdf}
+D. Pavlyshyn. “Likelihood ratio testing in critically-spiked Wigner models.” *Doctoral Dissertation, Stanford University* (2022).\localpaper{../assets/research/dpavlyshyn-dissertation.pdf}
 
 ## Software
 
