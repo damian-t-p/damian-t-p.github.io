@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" style="width:40%;" src="assets/index/damian-portrait.jpg">
     <p>
-    I'm Damian, an I've recently completed my PhD at Stanford's Statistics department, where I was advised by <a href="https://imjohnstone.su.domains//">Iain Johnstone</a>.
+    I'm Damian, and I've recently completed my PhD at Stanford's Statistics department, where I was advised by <a href="https://imjohnstone.su.domains//">Iain Johnstone</a>.
     I am currently applying for jobs as a biostatistician, primarily in Melbourne, Australia.
     </p>
     <p>
