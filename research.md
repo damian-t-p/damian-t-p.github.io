@@ -4,6 +4,8 @@
 
 ## Publications and Preprints
 
+Authorship order in statistics papers is always alphabetical.
+
 1) I. M. Johnstone, Y. Klochkov, A. Onatski, and D. Pavlyshyn. “Spin Glass to Paramagnetic Transition in Spherical Sherrington-Kirkpatrick Model with Ferromagnetic Interaction.” (2021). arXiv: 2104.07629.\arXiv{https://arxiv.org/abs/2104.07629}
 
 2) I. M. Johnstone, Y. Klochkov, A. Onatski, and D. Pavlyshyn. “An Edge CLT for the Log Determinant of Gaussian Ensembles.” (2020). arXiv: 2011.13723.\arXiv{https://arxiv.org/abs/2011.13723}

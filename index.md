@@ -8,12 +8,12 @@
   <div class="container">
     <img class="left" style="width:40%;" src="assets/index/damian-portrait.jpg">
     <p>
-    I'm Damian, a fifth-year PhD student in Stanford's Statistics department, advised by <a href="https://imjohnstone.su.domains//">Iain Johnstone</a>.
-    I will be graduating on June 13 2022, and am currently applying for jobs as a statistician in the industrial sector.
+    I'm Damian, an I've recently completed my PhD at Stanford's Statistics department, where I was advised by <a href="https://imjohnstone.su.domains//">Iain Johnstone</a>.
+    I am currently applying for jobs as a biostatistician, primarily in Melbourne, Australia.
     </p>
     <p>
     I am interested in problems of testing and estimation arising from high-dimensional statistics.
-	My research has been focused on random matrix theory, and is pertains to PCA and factor analysis in high dimensions.
+	My research has been focused on random matrix theory, and its applications to statistical methodology and high-dimenstional biological problems.
     </p>
     <p>
     You can find me on <a href="https://github.com/damian-t-p">Github</a>, <a href="https://linkedin.com/in/d-pavlyshyn
