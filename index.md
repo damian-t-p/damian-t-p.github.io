@@ -8,12 +8,13 @@
   <div class="container">
     <img class="left" style="width:40%;" src="assets/index/damian-portrait.jpg">
     <p>
-    I'm Damian, and I've recently completed my PhD at Stanford's Statistics department, where I was advised by <a href="https://imjohnstone.su.domains//">Iain Johnstone</a>.
-    I am currently applying for jobs as a biostatistician, primarily in Melbourne, Australia.
+    I'm Damian, and I'm a postdoctoral researcher in statistics at the <a href="https://burnet.edu.au">Burnet Institute</a> in Melbourne Australia.
+	
+	I completed my PhD at Stanford's Statistics department in 2022, where I was advised by <a href="https://imjohnstone.su.domains//">Iain Johnstone</a>.
     </p>
     <p>
-    I am interested in problems of testing and estimation arising from high-dimensional statistics.
-	My research has been focused on random matrix theory, and its applications to statistical methodology and high-dimenstional biological problems.
+    I am interested in applying modern statistical methods to data in the public health domain.
+	I work on diverse projects, including the use of high-dimenstional statistics in the proteomics of people with HIV and longitudinal causal inference in long-term studies of housing and incarceration.
     </p>
     <p>
     You can find me on <a href="https://github.com/damian-t-p">Github</a>, <a href="https://linkedin.com/in/d-pavlyshyn

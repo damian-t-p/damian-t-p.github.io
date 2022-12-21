@@ -6,13 +6,15 @@
 
 Authorship order in statistics papers is always alphabetical.
 
-1) I. M. Johnstone, Y. Klochkov, A. Onatski, and D. Pavlyshyn. “Spin Glass to Paramagnetic Transition in Spherical Sherrington-Kirkpatrick Model with Ferromagnetic Interaction.” (2021). arXiv: 2104.07629.\arXiv{https://arxiv.org/abs/2104.07629}
+1) D. Pavlyshyn, I. M. Johnstone, J. L. Sztepanavz. "Comparison of REML methods for the study of phenome-wide genetic variation." (2022). arXiv: 2210.11709. \arXiv{https://arxiv.org/abs/2210.11709} \rpkg{https://github.com/damian-t-p/REMLSimulationPaper}
 
-2) I. M. Johnstone, Y. Klochkov, A. Onatski, and D. Pavlyshyn. “An Edge CLT for the Log Determinant of Gaussian Ensembles.” (2020). arXiv: 2011.13723.\arXiv{https://arxiv.org/abs/2011.13723}
+2) I. M. Johnstone, Y. Klochkov, A. Onatski, and D. Pavlyshyn. “Spin Glass to Paramagnetic Transition in Spherical Sherrington-Kirkpatrick Model with Ferromagnetic Interaction.” (2021). arXiv: 2104.07629.\arXiv{https://arxiv.org/abs/2104.07629}
 
-3) D. Pavlyshyn, I. Johnstone and R. Saller. “Lead Pollution and the Roman Economy.” In: *Journal of Roman Archaeology* 33 (2020), pp. 354-364. \closedaccessjournal{https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/abs/lead-pollution-and-the-roman-economy/44F68F56B180A2E216DA1A5FDA0956F0}
+3) I. M. Johnstone, Y. Klochkov, A. Onatski, and D. Pavlyshyn. “An Edge CLT for the Log Determinant of Gaussian Ensembles.” (2020). arXiv: 2011.13723.\arXiv{https://arxiv.org/abs/2011.13723}
 
-4) A. Kan, D. Pavlyshyn, J. Markham, M. R. Dowling, et. al. “Stochastic measurement models for quantifying lymphocyte response using flow cytometry.” In: *PloS one* 11.1 (2016).\openaccessjournal{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146227}
+4) D. Pavlyshyn, I. Johnstone and R. Saller. “Lead Pollution and the Roman Economy.” In: *Journal of Roman Archaeology* 33 (2020), pp. 354-364. \closedaccessjournal{https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/abs/lead-pollution-and-the-roman-economy/44F68F56B180A2E216DA1A5FDA0956F0}
+
+5) A. Kan, D. Pavlyshyn, J. Markham, M. R. Dowling, et. al. “Stochastic measurement models for quantifying lymphocyte response using flow cytometry.” In: *PloS one* 11.1 (2016).\openaccessjournal{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146227}
 
 ## Ph. D. thesis
 
