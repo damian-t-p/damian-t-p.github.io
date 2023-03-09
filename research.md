@@ -26,7 +26,9 @@ D. Pavlyshyn. “Likelihood ratio testing in critically-spiked Wigner models.”
 
 2) ~~~<code>halfsibdesign</code>~~~: An R package for fitting and simulating balanced random-effects models for half-sib breeding designs. \rpkg{https://github.com/damian-t-p/halfsibdesign}
 
-3) ~~~<code>StochasticAiry.jl</code>~~~: A Julia package for sampling the Stochatic Airy function as defined in Lambert & Paquette, "Strong approximation of Gaussian beta-ensemble characteristic polynomials: the edge regime and the stochastic Airy function," arXiv:2009.05003. \juliadots{https://github.com/damian-t-p/StochasticAiry.jl}
+3) ~~~<code>tidyformula</code>~~~: An R package for using tidyselect-style selection helpers to build formula objects. \rpkg{https://cran.r-project.org/web/packages/tidyformula/index.html}
+
+4) ~~~<code>StochasticAiry.jl</code>~~~: A Julia package for sampling the Stochatic Airy function as defined in Lambert & Paquette, "Strong approximation of Gaussian beta-ensemble characteristic polynomials: the edge regime and the stochastic Airy function," arXiv:2009.05003. \juliadots{https://github.com/damian-t-p/StochasticAiry.jl}
 
 
 
