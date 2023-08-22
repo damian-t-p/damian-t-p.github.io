@@ -3,11 +3,11 @@
 
 # Slides of workshops and expository talks
 
-1. [_I reject your RCT and substitute my own: A workshop in inverse propensity weighting_](assets/teaching/ipw-seminar.pdf) (2023 July, Burnet Institute). An applied introduction to inverse propensity weighting in the context of clinical trials.
+1. [_I reject your RCT and substitute my own: A workshop in inverse propensity weighting_](/assets/teaching/ipw-seminar.pdf) (2023 July, Burnet Institute). An applied introduction to inverse propensity weighting in the context of clinical trials.
 
-2. [_A practical introduction to regression_](assets/teaching/intro-to-regression.html) (2023 May, Burnet Institute). A first introduction to the notion of regression using R for people with minimal mathematical background. 
+2. [_A practical introduction to regression_](/assets/teaching/intro-to-regression.html) (2023 May, Burnet Institute). A first introduction to the notion of regression using R for people with minimal mathematical background. 
 
-3. [_The road to figuring out the mean: Why adding up and dividing is not obvious_](assets/teaching/mean-history.pdf) (2021 September, Stanford University). A foray into the early history of statistics, examining how the arithmetic mean became the gold standard for location estimation over the course of centuries.
+3. [_The road to figuring out the mean: Why adding up and dividing is not obvious_](/assets/teaching/mean-history.pdf) (2021 September, Stanford University). A foray into the early history of statistics, examining how the arithmetic mean became the gold standard for location estimation over the course of centuries.
 
 # Stanford Statistics (course instructor and teaching assistant)
 
