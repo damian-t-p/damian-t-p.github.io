@@ -23,24 +23,24 @@ Authorship order in statistics papers is always alphabetical.
 
 3) J. Cumming, N. Scott, J. Howell, J. E. Flores, **D. Pavlyshyn**, M. E. Hellard, L. S. Winata, M. Ryan, T. Sutherland, A. J. Thompson, et al. “Improving Hepatocellular Carcinoma Surveillance Outcomes in Patients with Cirrhosis after Hepatitis C Cure: A Modelling Study.” In: *Cancers* 16.15 (2024). \openaccessjournal{https://pubmed.ncbi.nlm.nih.gov/39123472/}
 
-4) A. C. Hearps, N. Vootukuru, S. Ebrahimnezhaddarzi, B. L. Harney. I. Boo, L. Nguyen, D. Pavlyshyn, P. M. Dietze, H. E. Drummer, A. J. Thompson, A. Jaworowski, M. E. Hellard, R. Sacks-Davis, J. S. “Injecting drug use and hepatitis C virus infection independently increase biomarkers of inflammatory disease risk which are incompletely restored by curative direct-acting antiviral therapy.” In: *Frontiers in Immunology* 15 (2024). \openaccessjournal{https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1352440/full}
+4) A. C. Hearps, N. Vootukuru, S. Ebrahimnezhaddarzi, B. L. Harney. I. Boo, L. Nguyen, **D. Pavlyshyn**, P. M. Dietze, H. E. Drummer, A. J. Thompson, A. Jaworowski, M. E. Hellard, R. Sacks-Davis, J. S. “Injecting drug use and hepatitis C virus infection independently increase biomarkers of inflammatory disease risk which are incompletely restored by curative direct-acting antiviral therapy.” In: *Frontiers in Immunology* 15 (2024). \openaccessjournal{https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1352440/full}
 
-5) A. Kan, D. Pavlyshyn, J. Markham, M. R. Dowling, et. al. “Stochastic measurement models for quantifying lymphocyte response using flow cytometry.” In: *PloS one* 11.1 (2016).\openaccessjournal{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146227}
+5) A. Kan, **D. Pavlyshyn**, J. Markham, M. R. Dowling, et. al. “Stochastic measurement models for quantifying lymphocyte response using flow cytometry.” In: *PloS one* 11.1 (2016).\openaccessjournal{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146227}
 
 
 ## Conference presentations
 
-1) D. Pavlyshyn, A. Boyd, M. van der Valk, K. Lacombe, A. Rauch, J. S. Doyle, G. Matthews, M. Klein, A. Stewart, M. E. Hellard, L. Wittkop, R. Sacks-Davis. "Improving cirrhosis prediction with unbiased cohort pooling." Presented at "The 27th International Workshop on HIV and Hepatitis Observational Databases, Toledo, Spain (27-29 March 2025).
+1) **D. Pavlyshyn**, A. Boyd, M. van der Valk, K. Lacombe, A. Rauch, J. S. Doyle, G. Matthews, M. Klein, A. Stewart, M. E. Hellard, L. Wittkop, R. Sacks-Davis. "Improving cirrhosis prediction with unbiased cohort pooling." Presented at "The 27th International Workshop on HIV and Hepatitis Observational Databases, Toledo, Spain (27-29 March 2025).
 
-2) D. Pavlyshyn, L. Wittkop, M. Prins., R Sacks-Davis. "Using external cohorts to improve prediction accuracy for models with missing outcome data." Presented at "The 26th International Workshop on HIV and Hepatitis Observational Databases, Vilamoura, Portugal (21-23 March 2024).
+2) **D. Pavlyshyn**, L. Wittkop, M. Prins., R Sacks-Davis. "Using external cohorts to improve prediction accuracy for models with missing outcome data." Presented at "The 26th International Workshop on HIV and Hepatitis Observational Databases, Vilamoura, Portugal (21-23 March 2024).
 
-3) D. Pavlyshyn and R. Sacks-Davis. "Predicting mutual injecting relationships using covariate and topological similarity indices." Presented at: Sunbelt 2023, Portland OR (27 June-1 July 2023).
+3) **D. Pavlyshyn** and R. Sacks-Davis. "Predicting mutual injecting relationships using covariate and topological similarity indices." Presented at: Sunbelt 2023, Portland OR (27 June-1 July 2023).
 
-4) D. Pavlyshyn, M. Curtis, R. Sacks-Davis, N. Scott, M. A. Stoové, P. Higgs, L. Maher, M. Hickman, and P. Dietze. "Estimating the causal effect of public housing assignment on annual incarceration risk among people who inject drugs." Presented at" The 25th International Workshop on HIV and Hepatitis Observational Databases, Athens, Greece (23-25 March 2023).
+4) **D. Pavlyshyn**, M. Curtis, R. Sacks-Davis, N. Scott, M. A. Stoové, P. Higgs, L. Maher, M. Hickman, and P. Dietze. "Estimating the causal effect of public housing assignment on annual incarceration risk among people who inject drugs." Presented at" The 25th International Workshop on HIV and Hepatitis Observational Databases, Athens, Greece (23-25 March 2023).
 
 ## Ph. D. thesis
 
-D. Pavlyshyn. “Likelihood ratio testing in critically-spiked Wigner models.” *Doctoral Dissertation, Stanford University* (2022).\localpaper{/assets/research/dpavlyshyn-dissertation.pdf}
+**D. Pavlyshyn**. “Likelihood ratio testing in critically-spiked Wigner models.” *Doctoral Dissertation, Stanford University* (2022).\localpaper{/assets/research/dpavlyshyn-dissertation.pdf}
 
 ## Software
 
